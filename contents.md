@@ -1,2 +1,5 @@
-00000000: 7801 4bca c94f 5230 3464 5056 48ce cf2b  x.K..OR04dPVH..+
-00000010: 49cd 2b29 e602 0038 e605 dd              I.+)...8...
+# contents
+
+- titles.md: The movie titles in the WebFlyx collection
+- classics.csv: A comma-separated list of classic movies
+- quotes: A directory of files containing memorable quotes from movies
